@@ -1,22 +1,22 @@
 # Scorm to PDF downloader (Eclass kampus)
 
-> inspect elements, buka tab console
+inspect elements, buka tab console
 
-> _paste code ke console :_
+_paste code ke console :_
 ```
 document.getElementById("scorm_object").src;
 ```
-_example output :_
+> _example output :_
 ```
 https://eclass.uniku.ac.id/pluginfile.php/194936/mod_scorm/content/1/res/index.html
 ```
 
-> Buka link nya
+Buka link nya
 
-> Inspect elements pada halaman tersebut kemudian buka tab console
+Inspect elements pada halaman tersebut kemudian buka tab console
 
-> Copas screen-capt.js ke console
+Copas screen-capt.js ke console
 
-Tunggu hingga selesai
+> Tunggu hingga selesai
 
-> Copas to-pdf.js ke console
+Copas to-pdf.js ke console
