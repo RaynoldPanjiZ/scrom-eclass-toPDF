@@ -17,6 +17,6 @@
 
 5. Copas [screen-capt.js](https://github.com/RaynoldPanjiZ/scrom-eclass-toPDF/blob/master/screen-capt.js) ke console
 
-   > _Tunggu hingga selesai_
+   > note : _Pastikan berada di page pertama dari slide_
 
 6. Copas [to-pdf.js](https://github.com/RaynoldPanjiZ/scrom-eclass-toPDF/blob/master/to-pdf.js) ke console
